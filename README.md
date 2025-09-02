@@ -5,7 +5,7 @@ Keep track of your 💵 income and 🛒 expenses, see recent transactions, and m
 
 ## 🔗 Demo
 
-Check out the live demo here: [Expense Tracker Demo](https://your-demo-link.com) 🌐
+Check out the live demo here: [Expense Tracker Demo]( https://bhargavi-30-git.github.io/expense-tracker/) 🌐
 
 ## 🚀 Features
 
